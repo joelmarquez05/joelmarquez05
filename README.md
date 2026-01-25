@@ -15,7 +15,7 @@
 </p>
 
 <div align="center">
-  <h3>A passionate data scientist and machine learning engineer from Barcelona.</h3>
+  <h3>A passionate data engineer with broad data science background from Barcelona.</h3>
 </div>
 
 ---
