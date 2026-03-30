@@ -29,7 +29,7 @@
 - 🎓 Studying **Data Science & Engineering** at Universitat Politècnica de Catalunya (UPC).
 - 🌱 Deepening my knowledge in **Distributed Systems (PySpark, Hadoop)** and **Cloud Computing (AWS)**.
 - 🗣️ Speaking Native Spanish & Catalan, **C2 English**, and currently holding an **HSK 3 in Chinese**.
-- ♟️ In my free time, you'll find me at the gym, playing strategy games like Chess, or mentoring at hackathons!
+- ♟️ In my free time, you'll find me at the gym, playing strategy games like Chess, or participating at hackathons!
 
 ---
 
