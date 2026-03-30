@@ -27,8 +27,6 @@
 ### 🚀 What I'm currently up to:
 
 - 🎓 Studying **Data Science & Engineering** at Universitat Politècnica de Catalunya (UPC).
-- 💼 Working as a **Junior Data Engineer** at inLab FIB, building automated ETL pipelines and standardizing deployments with Docker.
-- 🏥 Leading a cross-functional team to build a **Clinical ML Pipeline** for BCNatal.
 - 🌱 Deepening my knowledge in **Distributed Systems (PySpark, Hadoop)** and **Cloud Computing (AWS)**.
 - 🗣️ Speaking Native Spanish & Catalan, **C2 English**, and currently holding an **HSK 3 in Chinese**.
 - ♟️ In my free time, you'll find me at the gym, playing strategy games like Chess, or mentoring at hackathons!
