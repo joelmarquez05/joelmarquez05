@@ -27,6 +27,8 @@
 ### 🚀 What I'm currently up to:
 
 - 🎓 Studying **Data Science & Engineering** at Universitat Politècnica de Catalunya (UPC).
+- 💼 Working as a **Junior Data Engineer** at inLab FIB, building automated ETL pipelines and standardizing deployments with Docker.
+- 🏥 Leading a cross-functional team to build a **Clinical ML Pipeline** for BCNatal.
 - 🌱 Deepening my knowledge in **Distributed Systems (PySpark, Hadoop)** and **Cloud Computing (AWS)**.
 - 🗣️ Speaking Native Spanish & Catalan, **C2 English**, and currently holding an **HSK 3 in Chinese**.
 - ♟️ In my free time, you'll find me at the gym, playing strategy games like Chess, or mentoring at hackathons!
@@ -39,24 +41,27 @@
 
 <div align="center">
   <h3>Languages & Databases</h3>
-  <img src="https://cdn.simpleicons.org/python" height="45" alt="Python" title="Python" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/cplusplus" height="45" alt="C++" title="C++" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/r" height="45" alt="R" title="R" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/postgresql" height="45" alt="PostgreSQL (SQL)" title="PostgreSQL (SQL)" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mongodb" height="45" alt="MongoDB" title="MongoDB" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/influxdb" height="45" alt="InfluxDB" title="InfluxDB" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,r,postgres,mongodb" />
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <h3>Data Engineering, Cloud & DevOps</h3>
-  <img src="https://cdn.simpleicons.org/apachespark" height="45" alt="Apache Spark" title="Apache Spark" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/apacheairflow" height="45" alt="Apache Airflow" title="Apache Airflow" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/apachehadoop" height="45" alt="Hadoop" title="Hadoop" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/docker" height="45" alt="Docker" title="Docker" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/amazonaws" height="45" alt="AWS" title="AWS" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/git" height="45" alt="Git" title="Git" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/ubuntu" height="45" alt="Ubuntu" title="Ubuntu" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/visualstudiocode" height="45" alt="VS Code" title="VS Code" />
+  <h3>Cloud, DevOps & Environment</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,aws,git,ubuntu,vscode" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <h2> 📊 GitHub Analytics </h2>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joelmarquez05&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=3081F7&text_color=C9D1D9&icon_color=3081F7" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelmarquez05&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=3081F7&text_color=C9D1D9" />
 </div>
