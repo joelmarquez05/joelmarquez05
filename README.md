@@ -1,64 +1,68 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/joelmarquez05/joelmarquez05/main/header.jpg">
+  <img src="https://raw.githubusercontent.com/joelmarquez05/joelmarquez05/main/header.jpg" width="100%" style="border-radius: 15px;">
 </div>
+
+<br>
 
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=1000&color=3081F7&center=true&vCenter=true&width=600&lines=Nice+to+meet+you%2C+I'm+Joel+%F0%9F%91%8B"/>
-</a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=1000&color=3081F7&center=true&vCenter=true&width=600&lines=Nice+to+meet+you%2C+I'm+Joel+%F0%9F%91%8B;Data+Science+%26+Engineering+@+UPC;Junior+Data+Engineer"/>
+  </a>
 </div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joel-marquez-alvarez/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:jmarquezalvarez05@gmail.com"><img src="https://img.shields.io/badge/Personal-F7DF1E?style=for-the-badge&logo=kakaotalk&logoColor=black" alt="Personal Email"></a>
-  <a href="mailto:joel.marquez@estudiantat.upc.edu"><img src="https://img.shields.io/badge/University-B71C1C?style=for-the-badge&logo=google-scholar&logoColor=white" alt="University Email"></a>
+  <a href="mailto:jmarquezalvarez05@gmail.com"><img src="https://img.shields.io/badge/Personal_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Email"></a>
+  <a href="mailto:joel.marquez@estudiantat.upc.edu"><img src="https://img.shields.io/badge/University_Email-B71C1C?style=for-the-badge&logo=google-scholar&logoColor=white" alt="University Email"></a>
 </p>
 
 <div align="center">
-  <h3>A passionate data engineer with broad data science background from Barcelona.</h3>
+  <blockquote>
+    <p><b>Data Engineer & Data Science Student</b> from Barcelona with a strong focus on distributed systems, data warehousing, and scalable MLOps architectures. Passionate about transforming raw data into actionable insights.</p>
+  </blockquote>
 </div>
 
 ---
 
-- 📘 Currently working on building a personal portfolio
-- 🌱 Learning Google Cloud for professional MLOps
-- 💬 Ask me about Maths, Data Science, or Chess!
+### 🚀 What I'm currently up to:
 
-### 🙋‍♂️ About Me:
-
-- 🎓 I'm studying Data Science & Engineering at UPC
-- 💡 I'm always interested in learning new things
-- 💪 I enjoy working out from time to time
-- 🐉 I've been studying Chinese for four years
-- 🏆 I love strategy games like Chess
+- 🎓 Studying **Data Science & Engineering** at Universitat Politècnica de Catalunya (UPC).
+- 🌱 Deepening my knowledge in **Distributed Systems (PySpark, Hadoop)** and **Cloud Computing (AWS)**.
+- 🗣️ Speaking Native Spanish & Catalan, **C2 English**, and currently holding an **HSK 3 in Chinese**.
+- ♟️ In my free time, you'll find me at the gym, playing strategy games like Chess, or mentoring at hackathons!
 
 ---
 
 <div align="center">
-  <h2> 🛠️ Tech Stack 🛠️ </h2>
+  <h2> 🛠️ Tech Stack & Tools </h2>
 </div>
 
-### Programming Languages
-
-<p align="center">
+**Languages & Core**
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,r,cpp" />
+    <img src="https://skillicons.dev/icons?i=python,sql,cpp,r" />
   </a>
 </p>
 
-### Tools
-
-<p align="center">
+**Data Engineering, Cloud & DevOps**
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,aws,matlab,tensorflow,scikitlearn,cassandra" />
+    <img src="https://skillicons.dev/icons?i=docker,aws,postgres,mongodb,git,ubuntu,vscode" />
   </a>
+  <br>
+  <img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hadoop-66CC00?style=for-the-badge&logo=apachehadoop&logoColor=black" />
+  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white" />
 </p>
 
-### Workflow & Environment
+---
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=powershell,git,latex,ubuntu,vscode" />
-  </a>
-</p>
+<div align="center">
+  <h2> 📊 GitHub Analytics </h2>
+</div>
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joelmarquez05&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=3081F7&text_color=C9D1D9&icon_color=3081F7" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelmarquez05&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=3081F7&text_color=C9D1D9" />
+</div>
