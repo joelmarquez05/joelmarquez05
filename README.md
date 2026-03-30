@@ -42,9 +42,7 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,r,postgres,mongodb" />
 </a>
 
-<img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white" />
-
-#### Cloud, Data Engineering & Environment
+#### Data Engineering & Cloud
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=docker,aws,git,ubuntu" />
 </a>
