@@ -40,8 +40,9 @@
 **Languages & Core**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,sql,cpp,r" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,r" align="center" />
   </a>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=Databricks&logoColor=white" align="center" />
 </p>
 
 **Data Engineering, Cloud & DevOps**
@@ -55,14 +56,3 @@
   <img src="https://img.shields.io/badge/Hadoop-66CC00?style=for-the-badge&logo=apachehadoop&logoColor=black" />
   <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white" />
 </p>
-
----
-
-<div align="center">
-  <h2> 📊 GitHub Analytics </h2>
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joelmarquez05&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=3081F7&text_color=C9D1D9&icon_color=3081F7" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelmarquez05&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=3081F7&text_color=C9D1D9" />
-</div>
