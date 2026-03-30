@@ -37,24 +37,16 @@
 
 ### 🛠️ Tech Stack & Tools
 
-<div align="center">
-  <h3>Languages & Databases</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,r,postgres,mongodb" />
-  </a>
-  <br><br>
-  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white" />
-</div>
+#### Languages & Databases
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,cpp,r,postgres,mongodb" />
+</a>
 
-<br>
+<img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white" />
 
-<div align="center">
-  <h3>Cloud, Data Engineering & Environment</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,aws,git,ubuntu" />
-  </a>
-  <br><br>
-  <img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" />
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hadoop-66CC00?style=for-the-badge&logo=apachehadoop&logoColor=black" />
-</div>
+#### Cloud, Data Engineering & Environment
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,ubuntu" />
+</a>
+
+<img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" /> <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" /> <img src="https://img.shields.io/badge/Hadoop-66CC00?style=for-the-badge&logo=apachehadoop&logoColor=black" />
