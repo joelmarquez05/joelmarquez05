@@ -49,19 +49,15 @@
 <br>
 
 <div align="center">
-  <h3>Cloud, DevOps & Environment</h3>
+  <h3>Cloud, Data Engineering & Environment</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,aws,git,ubuntu,vscode" />
+    <img src="https://skillicons.dev/icons?i=docker,aws,git,ubuntu" />
   </a>
+  <br><br>
+  <img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hadoop-66CC00?style=for-the-badge&logo=apachehadoop&logoColor=black" />
+  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white" />
 </div>
 
 ---
-
-<div align="center">
-  <h2> 📊 GitHub Analytics </h2>
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joelmarquez05&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=3081F7&text_color=C9D1D9&icon_color=3081F7" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelmarquez05&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=3081F7&text_color=C9D1D9" />
-</div>
