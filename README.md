@@ -37,22 +37,26 @@
   <h2> 🛠️ Tech Stack & Tools </h2>
 </div>
 
-**Languages & Core**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,r" align="center" />
-  </a>
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=Databricks&logoColor=white" align="center" />
-</p>
+<div align="center">
+  <h3>Languages & Databases</h3>
+  <img src="https://cdn.simpleicons.org/python" height="45" alt="Python" title="Python" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/cplusplus" height="45" alt="C++" title="C++" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/r" height="45" alt="R" title="R" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql" height="45" alt="PostgreSQL (SQL)" title="PostgreSQL (SQL)" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mongodb" height="45" alt="MongoDB" title="MongoDB" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/influxdb" height="45" alt="InfluxDB" title="InfluxDB" />
+</div>
 
-**Data Engineering, Cloud & DevOps**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,aws,postgres,mongodb,git,ubuntu,vscode" />
-  </a>
-  <br>
-  <img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" />
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hadoop-66CC00?style=for-the-badge&logo=apachehadoop&logoColor=black" />
-  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white" />
-</p>
+<br>
+
+<div align="center">
+  <h3>Data Engineering, Cloud & DevOps</h3>
+  <img src="https://cdn.simpleicons.org/apachespark" height="45" alt="Apache Spark" title="Apache Spark" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/apacheairflow" height="45" alt="Apache Airflow" title="Apache Airflow" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/apachehadoop" height="45" alt="Hadoop" title="Hadoop" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker" height="45" alt="Docker" title="Docker" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/amazonaws" height="45" alt="AWS" title="AWS" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git" height="45" alt="Git" title="Git" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/ubuntu" height="45" alt="Ubuntu" title="Ubuntu" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/visualstudiocode" height="45" alt="VS Code" title="VS Code" />
+</div>
