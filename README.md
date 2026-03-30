@@ -35,15 +35,15 @@
 
 ---
 
-<div align="center">
-  <h2> 🛠️ Tech Stack & Tools </h2>
-</div>
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
   <h3>Languages & Databases</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,cpp,r,postgres,mongodb" />
   </a>
+  <br><br>
+  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white" />
 </div>
 
 <br>
@@ -57,7 +57,4 @@
   <img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" />
   <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Hadoop-66CC00?style=for-the-badge&logo=apachehadoop&logoColor=black" />
-  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white" />
 </div>
-
----
