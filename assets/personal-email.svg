@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170" height="34" viewBox="0 0 170 34" role="img" aria-labelledby="title">
+  <title id="title">Personal email</title>
+  <rect x=".5" y=".5" width="169" height="33" rx="7" fill="#263E31" stroke="#637555"/>
+  <text x="16" y="22" fill="#F1EBDD" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="600" letter-spacing=".6">Personal email</text>
+  <path d="M144 21L153 12M145 12H153V20" fill="none" stroke="#BECBA4" stroke-width="1.5"/>
+</svg>
