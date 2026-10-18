@@ -1,31 +1,26 @@
 <p align="center">
-  <img src="assets/profile-header.svg" alt="Joel Márquez Álvarez — Data, systems and human impact. BSc in Data Science &amp; Engineering, in progress at UPC, Barcelona." width="100%">
+  <img src="assets/profile-header.svg" alt="Joel Márquez Álvarez" width="100%">
 </p>
 
+<h2 align="center">BSc in Data Science &amp; Engineering</h2>
+
+<p align="center">Universitat Politècnica de Catalunya (UPC) · Barcelona, Spain</p>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/joel-marquez-alvarez/"><img src="assets/linkedin.svg" alt="Connect on LinkedIn" height="34"></a>
+  <a href="https://www.linkedin.com/in/joel-marquez-alvarez/"><img src="assets/linkedin.svg" alt="LinkedIn" height="34"></a>
   &nbsp;
   <a href="mailto:jmarquezalvarez05@gmail.com"><img src="assets/personal-email.svg" alt="Personal email: jmarquezalvarez05@gmail.com" height="34"></a>
   &nbsp;
   <a href="mailto:joel.marquez@estudiantat.upc.edu"><img src="assets/university-email.svg" alt="University email: joel.marquez@estudiantat.upc.edu" height="34"></a>
 </p>
 
-<p align="center">
-  <strong>BSc in Data Science &amp; Engineering · in progress</strong><br>
-  Universitat Politècnica de Catalunya (UPC) · Barcelona, Spain
-</p>
-
-I'm Joel, a Data Science & Engineering student interested in the whole journey from raw data to useful decisions: building the pipeline, understanding the model, and asking what its results mean for people.
-
-My work brings together **data engineering, distributed computing, and applied AI**, with a growing focus on **healthcare, explainability, and responsible AI**. I enjoy projects where solid engineering and a meaningful question meet.
+My interests include **data engineering, distributed computing, and applied AI**, especially **healthcare, explainability, and responsible AI**.
 
 ### 01 / What I'm building and exploring
 
-| Data that flows | Systems that scale | AI with a human context |
+| Data engineering | Distributed computing | Applied AI |
 | :--- | :--- | :--- |
 | ETL/ELT pipelines, data warehouses, orchestration, and reproducible ML workflows. | Spark on AWS, parallel computing on MareNostrum 5, and the trade-offs between speed, cost, and energy. | Healthcare ML, explainability, LLM applications, and the ethics of using AI in public services. |
-
-Currently, I'm also developing a **Medical Agentic Copilot** research prototype: exploring LangGraph agents, medical literature retrieval, and evaluation with traceable evidence. Alongside it, I'm deepening my knowledge of **distributed systems, cloud computing, and MLOps**.
 
 ### 02 / Selected work
 
@@ -84,7 +79,7 @@ Currently, I'm also developing a **Medical Agentic Copilot** research prototype:
 
 ### 03 / My toolbox
 
-Tools I've used across coursework, collaborative projects, and current research.
+Tools I've used across coursework and collaborative projects.
 
 | Area | Technologies |
 | :--- | :--- |
@@ -92,7 +87,7 @@ Tools I've used across coursework, collaborative projects, and current research.
 | **Data engineering** | Apache Spark / PySpark · Airflow · Hadoop · Delta Lake · dlt · dbt |
 | **Databases & analytics** | PostgreSQL · MongoDB · DuckDB · Evidence |
 | **ML & visualization** | pandas · NumPy · scikit-learn · TensorFlow · SHAP · MLflow · Altair · Streamlit |
-| **LLM applications** | LangGraph · LangChain · Literature retrieval · Agent evaluation |
+| **LLM applications** | Semantic enrichment · Sentiment analysis |
 | **Cloud & development** | AWS EC2 · Docker · Git · Linux / Ubuntu · WSL |
 | **Parallel computing** | MPI · OpenMP · Slurm |
 
@@ -103,10 +98,5 @@ Tools I've used across coursework, collaborative projects, and current research.
 - **What keeps me curious:** how systems work, how people use them, and how data can help us make better decisions.
 
 <p align="center">
-  Happy to connect over data engineering, applied AI, healthcare research, or a hackathon idea.<br>
-  <a href="https://www.linkedin.com/in/joel-marquez-alvarez/">LinkedIn</a> · <a href="mailto:jmarquezalvarez05@gmail.com">Personal email</a> · <a href="mailto:joel.marquez@estudiantat.upc.edu">University email</a>
-</p>
-
-<p align="center">
-  <img src="assets/profile-footer.svg" alt="Curiosity, structure, and a human perspective." width="100%">
+  <img src="assets/profile-footer.svg" alt="If you fail to plan, you plan to fail." width="100%">
 </p>
