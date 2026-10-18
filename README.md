@@ -98,5 +98,5 @@ Tools I've used across coursework and collaborative projects.
 - **What keeps me curious:** how systems work, how people use them, and how data can help us make better decisions.
 
 <p align="center">
-  <img src="assets/profile-footer.svg" alt="Learning, one line of code at a time." width="100%">
+  <img src="assets/profile-footer.svg" alt="Still learning. Still building. Still curious." width="100%">
 </p>
